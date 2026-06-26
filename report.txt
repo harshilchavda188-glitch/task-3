@@ -1,0 +1,21 @@
+==================================================
+PRODUCT ANALYTICS REPORT
+==================================================
+
+Total Revenue: ₹1,125,000.00
+
+Top 5 Selling Products
+--------------------------------------------------
+USB Cable       Qty: 80    Revenue: ₹16,000.00
+Mouse           Qty: 50    Revenue: ₹25,000.00
+Power Bank      Qty: 40    Revenue: ₹60,000.00
+Keyboard        Qty: 30    Revenue: ₹30,000.00
+SSD             Qty: 25    Revenue: ₹150,000.00
+
+Least Selling Products
+--------------------------------------------------
+Laptop          Qty: 10    Revenue: ₹500,000.00
+Webcam          Qty: 12    Revenue: ₹42,000.00
+Monitor         Qty: 15    Revenue: ₹180,000.00
+Speaker         Qty: 18    Revenue: ₹72,000.00
+Headphones      Qty: 20    Revenue: ₹50,000.00
